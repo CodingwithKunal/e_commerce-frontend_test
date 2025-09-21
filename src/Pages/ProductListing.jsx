@@ -4,7 +4,7 @@ import Sidebar from "../components/Sidebar";
 import Banner from "../components/Banner";
 import ProductCard from "../components/ProductCard";
 import Pagination from "../components/Pagination";
-import products from "../Data/Products.js";
+import products from "../data/products.js";
 
 // helper to break array into chunks
 const chunk = (arr, size) => {
